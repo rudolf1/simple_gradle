@@ -1,0 +1,6 @@
+ansible/roles
+.idea
+*.iml
+.gradle
+build
+libs
