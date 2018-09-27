@@ -1,5 +1,5 @@
 package ua.rudolf.sample
 
 
-data class TestClass(val name:String)
+public data class TestClass(val name:String)
 
